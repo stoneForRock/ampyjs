@@ -1,0 +1,7 @@
+{
+    "name": "ampyjs",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module"
+}
